@@ -1,0 +1,6 @@
+name: CraftableBundles
+version: maven-version-number
+main: ca.tweetzy.craftablebundles.CraftableBundles
+api-version: 1.17
+description: Used to obtain / craft bundles pre 1.18
+authors: [Kiran Hart]

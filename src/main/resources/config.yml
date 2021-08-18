@@ -1,0 +1,13 @@
+# How much bundles should be created from that recipe
+crafting_amount: 1
+
+# The crafting recipe for the bundle (default recipe)
+recipe_items:
+  - 'S,STRING'
+  - 'H,RABBIT_HIDE'
+
+# Space == AIR/EMPTY
+recipe:
+  - 'SHS'
+  - 'H H'
+  - 'HHH'
